@@ -6,3 +6,5 @@ sudo apt install npm
 
 ### then clone this git hub repository and run the following commmand it will run Nodejs server on port 5000
 node index.js
+
+## for more details you can visit my article on medium https://medium.com/@islam.arif87/nodejs-deployment-for-devops-c4caf3d37964
