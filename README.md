@@ -1,4 +1,4 @@
-# nodejsapp
+# Nodejs App
 ## This is a simple nodejs application for testing. 
 ### if  you don't have nodejs environment just do the following thisn on your ubuntu server 
 sudo apt install nodejs </br>
